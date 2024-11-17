@@ -2,3 +2,4 @@
 pokolenie
 teredu
 tyreska
+frymid
